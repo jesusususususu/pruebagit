@@ -6,6 +6,7 @@ public class prueba {
 		System.out.println("adios");
 		System.out.println("adios rama");
 		System.out.println("añado rama nueva funcionalidad");
+		System.out.println("nueva funcionalidad");
 
 	}
 	
